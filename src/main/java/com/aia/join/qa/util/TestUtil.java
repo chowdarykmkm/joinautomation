@@ -21,7 +21,7 @@ public class TestUtil extends TestBase{
 	public static long PAGE_LOAD_TIMEOUT = 20;
 	public static long IMPLICIT_WAIT = 20;
 	
-	public static String TESTDATA_SHEET_PATH = "D:/Selenium-workspace/AIAJOINTEST/src/main/java/com/aia/join/qa/testdata/JoinData.xlsx";
+	public static String TESTDATA_SHEET_PATH = workingDir+"/src/main/java/com/aia/join/qa/testdata/JoinData.xlsx";
 	
 	static Workbook book;
 	static Sheet sheet;
