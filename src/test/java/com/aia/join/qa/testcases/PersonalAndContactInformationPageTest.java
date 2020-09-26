@@ -9,7 +9,6 @@ import com.aia.join.qa.pages.LoginPage;
 import com.aia.join.qa.pages.PersonalAndContactInformationPage;
 import com.aia.join.qa.pages.SelectmemberTypePage;
 import com.aia.join.qa.util.TestUtil;
-
 public class PersonalAndContactInformationPageTest extends TestBase{
 	
 	LoginPage loginPage;
