@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 import com.aia.join.aia.base.TestBase;
 import com.aia.join.qa.pages.LoginPage;
 
-
 public class LoginPageTest extends TestBase{
 	
 	LoginPage loginPage;
