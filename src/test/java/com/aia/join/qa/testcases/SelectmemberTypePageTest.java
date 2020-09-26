@@ -12,8 +12,7 @@ import com.aia.join.qa.pages.SelectmemberTypePage;
 public class SelectmemberTypePageTest extends TestBase{
 	
 	SelectmemberTypePage membershipQualifierPage;
-	LoginPage loginPage;
-	
+	LoginPage loginPage;	
 	public SelectmemberTypePageTest(){
 		super();		
 	}
